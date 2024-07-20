@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">0c2bb060-d88b-41e9-b405-47c069fc9974</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0c2bb060-d88b-41e9-b405-47c069fc9974</dc:identifier>
+        <dc:title>Unified Protocol for Transdiagnostic Treatment of Emotional Disorders (Treatments That Work)</dc:title>
+        <dc:creator opf:file-as="Barlow, David H. &amp; Farchione, Todd J. &amp; Sauer-Zavala, Shannon &amp; Murray Latin, Heather &amp; Ellard, Kristen K. &amp; Bullis, Jacqueline R. &amp; Bentley, Kate H. &amp; Boettcher, Hannah T. &amp; Cassiello-Robbins, Clair" opf:role="aut">David H. Barlow</dc:creator>
+        <dc:creator opf:file-as="Barlow, David H. &amp; Farchione, Todd J. &amp; Sauer-Zavala, Shannon &amp; Murray Latin, Heather &amp; Ellard, Kristen K. &amp; Bullis, Jacqueline R. &amp; Bentley, Kate H. &amp; Boettcher, Hannah T. &amp; Cassiello-Robbins, Clair" opf:role="aut">Todd J. Farchione</dc:creator>
+        <dc:creator opf:file-as="Barlow, David H. &amp; Farchione, Todd J. &amp; Sauer-Zavala, Shannon &amp; Murray Latin, Heather &amp; Ellard, Kristen K. &amp; Bullis, Jacqueline R. &amp; Bentley, Kate H. &amp; Boettcher, Hannah T. &amp; Cassiello-Robbins, Clair" opf:role="aut">Shannon Sauer-Zavala</dc:creator>
+        <dc:creator opf:file-as="Barlow, David H. &amp; Farchione, Todd J. &amp; Sauer-Zavala, Shannon &amp; Murray Latin, Heather &amp; Ellard, Kristen K. &amp; Bullis, Jacqueline R. &amp; Bentley, Kate H. &amp; Boettcher, Hannah T. &amp; Cassiello-Robbins, Clair" opf:role="aut">Heather Murray Latin</dc:creator>
+        <dc:creator opf:file-as="Barlow, David H. &amp; Farchione, Todd J. &amp; Sauer-Zavala, Shannon &amp; Murray Latin, Heather &amp; Ellard, Kristen K. &amp; Bullis, Jacqueline R. &amp; Bentley, Kate H. &amp; Boettcher, Hannah T. &amp; Cassiello-Robbins, Clair" opf:role="aut">Kristen K. Ellard</dc:creator>
+        <dc:creator opf:file-as="Barlow, David H. &amp; Farchione, Todd J. &amp; Sauer-Zavala, Shannon &amp; Murray Latin, Heather &amp; Ellard, Kristen K. &amp; Bullis, Jacqueline R. &amp; Bentley, Kate H. &amp; Boettcher, Hannah T. &amp; Cassiello-Robbins, Clair" opf:role="aut">Jacqueline R. Bullis</dc:creator>
+        <dc:creator opf:file-as="Barlow, David H. &amp; Farchione, Todd J. &amp; Sauer-Zavala, Shannon &amp; Murray Latin, Heather &amp; Ellard, Kristen K. &amp; Bullis, Jacqueline R. &amp; Bentley, Kate H. &amp; Boettcher, Hannah T. &amp; Cassiello-Robbins, Clair" opf:role="aut">Kate H. Bentley</dc:creator>
+        <dc:creator opf:file-as="Barlow, David H. &amp; Farchione, Todd J. &amp; Sauer-Zavala, Shannon &amp; Murray Latin, Heather &amp; Ellard, Kristen K. &amp; Bullis, Jacqueline R. &amp; Bentley, Kate H. &amp; Boettcher, Hannah T. &amp; Cassiello-Robbins, Clair" opf:role="aut">Hannah T. Boettcher</dc:creator>
+        <dc:creator opf:file-as="Barlow, David H. &amp; Farchione, Todd J. &amp; Sauer-Zavala, Shannon &amp; Murray Latin, Heather &amp; Ellard, Kristen K. &amp; Bullis, Jacqueline R. &amp; Bentley, Kate H. &amp; Boettcher, Hannah T. &amp; Cassiello-Robbins, Clair" opf:role="aut">Clair Cassiello-Robbins</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-11-16T23:00:00+00:00</dc:date>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:rights>&amp;#169; Oxford University Press 2018</dc:rights>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
