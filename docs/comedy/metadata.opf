@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1972359a-185b-4ca1-b6cb-fea49024f491</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1972359a-185b-4ca1-b6cb-fea49024f491</dc:identifier>
+        <dc:title>Finding Your Comic Genius: An in-depth guide to the art of stand-up comedy</dc:title>
+        <dc:creator opf:file-as="Bloom, Adam" opf:role="aut">Adam Bloom</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-08-31T23:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5220be39-745e-451f-85ee-654e716519c6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5220be39-745e-451f-85ee-654e716519c6</dc:identifier>
+        <dc:title>Black &amp; Decker The Book of Home How-To Complete Photo Guide to Home Repair</dc:title>
+        <dc:creator opf:file-as="Press, Editors of Cool Springs" opf:role="aut">Editors of Cool Springs Press</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-11-11T23:00:00+00:00</dc:date>
+        <dc:publisher>Cool Springs Press</dc:publisher>
+        <dc:rights>All rights reserved</dc:rights>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

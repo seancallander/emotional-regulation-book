@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">c03a175c-c63c-4a10-b690-5e28d2c63c69</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c03a175c-c63c-4a10-b690-5e28d2c63c69</dc:identifier>
+        <dc:title>The Country Living Bible_ [5 in 1] The Definitive Homesteading Guide for Preppers to Live &amp; Thrive Off the Grid _ Including Survival Skills to Stay Independent, Safe &amp; Healthy Even in Uncertain Times</dc:title>
+        <dc:creator opf:file-as="Bryan, Jake L." opf:role="aut">Jake L. Bryan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

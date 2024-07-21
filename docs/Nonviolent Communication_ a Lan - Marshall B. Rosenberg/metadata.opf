@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">1733ef9a-53e8-499b-8aca-a9c837b0aff6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1733ef9a-53e8-499b-8aca-a9c837b0aff6</dc:identifier>
+        <dc:title>Nonviolent Communication: a Language of Life</dc:title>
+        <dc:creator opf:file-as="Rosenberg, Marshall B." opf:role="aut">Marshall B. Rosenberg</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;An enlightening look at how peaceful communication can create compassionate connections with family, friends, and other acquaintances, this book uses stories, examples, and sample dialogues to provide solutions to communication problems both at home and in the workplace. Guidance is provided on identifying and articulating feelings and needs, expressing anger fully, and exploring the power of empathy in order to speak honestly without creating hostility, break patterns of thinking that lead to anger and depression, and communicate compassionately. Practical nonviolent communication skills are partnered with a powerful consciousness and vocabulary that can be applied to personal, professional, and political differences. Included in the new edition is information on how to compassionately connect with oneself.&lt;BR&gt; &lt;p&gt;Do you hunger for skills to improve the quality of your relationships, to deepen your sense of personal empowerment or to simply communicate more effectively?...</dc:description>
+        <dc:publisher>PuddleDancer Press</dc:publisher>
+        <dc:rights>Copyright © 2010 by Marshall B. Rosenberg</dc:rights>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

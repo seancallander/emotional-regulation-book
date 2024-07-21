@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">a89ca6eb-337a-4e8d-bb7b-30f9d3b97323</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a89ca6eb-337a-4e8d-bb7b-30f9d3b97323</dc:identifier>
+        <dc:title>Mastery of Your Anxiety and Worry: Workbook (Treatments That Work)</dc:title>
+        <dc:creator opf:file-as="Barlow, Michelle G. Craske;David H." opf:role="aut">Michelle G. Craske;David H. Barlow</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-10-07T17:36:00+00:00</dc:date>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

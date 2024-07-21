@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9bcb1773-5a60-4343-8cb9-ee97878dcfea</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9bcb1773-5a60-4343-8cb9-ee97878dcfea</dc:identifier>
+        <dc:title>SAS Survival Handbook: The Definitive Survival Guide</dc:title>
+        <dc:creator opf:file-as="Wiseman, John ‘Lofty’" opf:role="aut">John ‘Lofty’ Wiseman</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-08-03T23:00:00+00:00</dc:date>
+        <dc:publisher>HarperCollins Publishers</dc:publisher>
+        <dc:rights>All rights reserved</dc:rights>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

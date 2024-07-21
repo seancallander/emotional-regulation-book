@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2c16b7e1-ce35-4a8f-a60a-bfbb5ff53520</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c16b7e1-ce35-4a8f-a60a-bfbb5ff53520</dc:identifier>
+        <dc:title>Economic Facts and Fallacies: Second Edition</dc:title>
+        <dc:creator opf:file-as="Sowell, Thomas" opf:role="aut">Thomas Sowell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-03-21T23:00:00+00:00</dc:date>
+        <dc:publisher>Basic Books</dc:publisher>
+        <dc:rights>Copyright © 2007, 2011 by Thomas Sowell</dc:rights>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,497 @@
+@page {
+    margin-bottom: 5pt;
+    margin-top: 5pt
+    }
+@font-face {
+    font-family: Quicksand;
+    font-weight: normal;
+    font-style: normal;
+    src: url(fonts/00001.ttf)
+    }
+
+.alignment-block {
+    clear: both;
+    display: block;
+    margin-bottom: 1.4em;
+    margin-top: 1.4em
+    }
+.alignment-block-content {
+    -webkit-hyphens: manual;
+    adobe-hyphenate: none;
+    display: block;
+    hyphens: manual;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.calibre {
+    display: block;
+    font-family: Palatino, serif;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 5pt;
+    margin-right: 5pt;
+    margin-top: 0;
+    padding-left: 0;
+    padding-right: 0
+    }
+.calibre1 {
+    height: auto;
+    width: 100%
+    }
+.calibre2 {
+    color: rgb(36, 39, 116);
+    text-decoration: underline
+    }
+.calibre3 {
+    font-style: italic
+    }
+.calibre4 {
+    font-weight: bold
+    }
+.calibre5 {
+    clear: left;
+    display: block;
+    list-style-type: disc;
+    margin-bottom: 1.4em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.4em;
+    padding-left: 2em;
+    padding-right: 1.5em
+    }
+.calibre6 {
+    -webkit-hyphens: manual;
+    adobe-hyphenate: none;
+    display: list-item;
+    hyphens: manual;
+    text-align: left
+    }
+.calibre7 {
+    clear: left;
+    display: block;
+    list-style-type: decimal;
+    margin-bottom: 1.4em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.4em;
+    padding-left: 2em;
+    padding-right: 1.5em
+    }
+.element {
+    display: block;
+    margin-left: 2%;
+    margin-right: 2%;
+    text-align: center
+    }
+.element-number {
+    display: block;
+    font-family: Quicksand, sans-serif;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.04em;
+    line-height: 1.2;
+    text-align: center;
+    text-transform: uppercase
+    }
+.element-number-block {
+    display: block;
+    min-height: 1.5em
+    }
+.element-title {
+    display: block;
+    font-family: Quicksand, sans-serif;
+    font-kerning: auto;
+    font-size: 1.125em;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.04em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.2em;
+    page-break-before: always;
+    page-break-inside: avoid;
+    text-align: center;
+    text-transform: uppercase
+    }
+.element-title1 {
+    display: block;
+    font-family: Quicksand, sans-serif;
+    font-kerning: auto;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.04em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.2em;
+    page-break-before: always;
+    page-break-inside: avoid;
+    text-align: center;
+    text-transform: uppercase
+    }
+.element-title2 {
+    border-bottom-color: rgb(102, 102, 102);
+    border-bottom-width: 1px;
+    border-left-color: rgb(102, 102, 102);
+    border-left-width: 1px;
+    border-right-color: rgb(102, 102, 102);
+    border-right-width: 1px;
+    border-top-color: rgb(102, 102, 102);
+    border-top-style: solid;
+    border-top-width: 1px;
+    display: inline-block;
+    font-family: Quicksand, sans-serif;
+    font-kerning: auto;
+    font-size: 1.125em;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.04em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.2em;
+    padding-top: 0.7em;
+    page-break-before: always;
+    page-break-inside: avoid;
+    text-align: center;
+    text-transform: uppercase
+    }
+.element1 {
+    display: block;
+    margin-top: 10em
+    }
+.element2 {
+    display: block;
+    margin-top: 2.5em
+    }
+.first {
+    -webkit-hyphens: manual;
+    adobe-hyphenate: none;
+    display: block;
+    font-style: italic;
+    hyphens: manual;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: center;
+    text-indent: 0
+    }
+.first-phrase {
+    font-variant: small-caps;
+    font-variant-alternates: normal;
+    font-variant-east-asian: normal;
+    font-variant-ligatures: none;
+    font-variant-numeric: normal;
+    font-variant-position: normal;
+    letter-spacing: 0.04em
+    }
+.first1 {
+    -webkit-hyphens: manual;
+    adobe-hyphenate: none;
+    display: block;
+    hyphens: manual;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    text-align: left;
+    text-indent: 0
+    }
+.first2 {
+    -webkit-hyphens: manual;
+    adobe-hyphenate: none;
+    display: block;
+    font-size: 0.875em;
+    hyphens: manual;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.75em;
+    text-align: left;
+    text-indent: 0
+    }
+.heading {
+    display: block;
+    margin-bottom: 2em;
+    margin-left: 6%;
+    margin-right: 6%;
+    min-height: 12em;
+    text-align: center
+    }
+.heading-contents {
+    display: block;
+    padding-top: 3.0015em
+    }
+.heading-contents1 {
+    display: block;
+    padding-top: 2em
+    }
+.heading-contents2 {
+    display: block;
+    padding-top: 3em
+    }
+.heading1 {
+    display: block;
+    margin-bottom: 2em;
+    margin-left: 6%;
+    margin-right: 6%;
+    text-align: center
+    }
+.heading2 {
+    display: block;
+    margin-bottom: 2em;
+    margin-left: 6%;
+    margin-right: 6%;
+    min-height: 6em;
+    text-align: center
+    }
+.implicit-break {
+    -webkit-hyphens: manual;
+    adobe-hyphenate: none;
+    display: block;
+    height: 0;
+    hyphens: manual;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.4em;
+    page-break-inside: avoid;
+    text-align: left;
+    text-indent: 0
+    }
+.implicit-break1 {
+    -webkit-hyphens: manual;
+    adobe-hyphenate: none;
+    clear: both;
+    display: block;
+    height: 1.4em;
+    hyphens: manual;
+    margin-bottom: 1.4em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    page-break-inside: avoid;
+    text-align: left;
+    text-indent: 0
+    }
+.inline-image {
+    clear: both;
+    display: block;
+    margin-top: 1.5em;
+    text-align: center;
+    width: 100%
+    }
+.inline-image-container {
+    display: block;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+    width: 75%
+    }
+.inline-image-container1 {
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%
+    }
+.inline-image-container2 {
+    display: block;
+    margin-left: 0%;
+    margin-right: 0%;
+    width: 100%
+    }
+.inline-image1 {
+    clear: both;
+    display: block;
+    margin-bottom: 1.5em;
+    margin-top: 1.5em;
+    text-align: center;
+    width: 100%
+    }
+.subsq {
+    -webkit-hyphens: manual;
+    adobe-hyphenate: none;
+    display: block;
+    font-style: italic;
+    hyphens: manual;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: center;
+    text-indent: 0
+    }
+.subsq1 {
+    -webkit-hyphens: manual;
+    adobe-hyphenate: none;
+    display: block;
+    hyphens: manual;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0.7em;
+    text-align: left;
+    text-indent: 0
+    }
+.title-block {
+    display: block;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-top: 0
+    }
+.title-page-contributor {
+    display: block;
+    font-kerning: auto;
+    font-size: 1.125em;
+    font-weight: normal;
+    line-height: 1.2;
+    margin-bottom: 0.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    page-break-before: always;
+    page-break-inside: avoid;
+    text-align: center
+    }
+.title-page-contributor-block {
+    display: block;
+    margin-bottom: 1.5em;
+    min-height: 80px
+    }
+.title-page-contributor-name {
+    font-family: Quicksand, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.03em;
+    line-height: 1.2;
+    text-transform: uppercase
+    }
+.title-page-contributor-primary-block {
+    display: block
+    }
+.title-page-subtitle {
+    display: block;
+    font-family: Quicksand, sans-serif;
+    font-kerning: auto;
+    font-size: 1em;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.03em;
+    line-height: 1.2;
+    margin-bottom: 1.5em;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 1.5em;
+    page-break-inside: avoid;
+    text-align: center;
+    text-transform: uppercase
+    }
+.title-page-title {
+    border-bottom-color: rgb(102, 102, 102);
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-left-color: rgb(102, 102, 102);
+    border-left-width: 1px;
+    border-right-color: rgb(102, 102, 102);
+    border-right-width: 1px;
+    border-top-color: rgb(102, 102, 102);
+    border-top-width: 1px;
+    display: inline-block;
+    font-family: Quicksand, sans-serif;
+    font-kerning: auto;
+    font-size: 1.375em;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: 0.05em;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-bottom: 0.5em;
+    page-break-before: always;
+    page-break-inside: avoid;
+    text-align: center;
+    text-transform: uppercase
+    }
+.title-page-title-subtitle-block {
+    display: block;
+    margin-bottom: 2em;
+    margin-left: 6%;
+    margin-right: 6%;
+    margin-top: 140px;
+    min-height: 140px
+    }
+.title-subtitle-block {
+    display: block;
+    padding-top: 0
+    }
+.toc-backmatter-group {
+    display: block;
+    margin-top: 0.75em
+    }
+.toc-content {
+    -webkit-hyphens: manual;
+    adobe-hyphenate: none;
+    display: block;
+    font-size: 0.875em;
+    hyphens: manual;
+    line-height: 1.2;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+    padding-left: 1.5rem;
+    text-align: left;
+    text-indent: -1.5rem
+    }
+.toc-contents {
+    display: block;
+    padding-left: 5%;
+    padding-right: 5%
+    }
+.toc-frontmatter-group {
+    display: block;
+    margin-bottom: 0.75em
+    }
+.toc-item {
+    display: block;
+    margin-bottom: 0.1em;
+    page-break-inside: avoid
+    }
+.toc-item-number {
+    font-size: 0.85714em;
+    padding-left: 0;
+    padding-right: 0.3em;
+    text-indent: 0
+    }
+.toc-item-title-text {
+    color: rgb(36, 39, 116)
+    }
+.underline {
+    text-decoration: underline
+    }
+.pcalibre:first-line {
+    font-variant: small-caps;
+    font-variant-alternates: normal;
+    font-variant-east-asian: normal;
+    font-variant-ligatures: none;
+    font-variant-numeric: normal;
+    font-variant-position: normal;
+    letter-spacing: 0.04em
+    }
+

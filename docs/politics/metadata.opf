@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">68ba8054-f47a-47b2-82ee-0d9402430c1b</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68ba8054-f47a-47b2-82ee-0d9402430c1b</dc:identifier>
+        <dc:title>IF YOU DON'T DO POLITICS, POLITICS WILL DO YOU…: A guide to navigating office politics effectively and ethically. (And yes, it is possible.)</dc:title>
+        <dc:creator opf:file-as="Postma, Niven" opf:role="aut">Niven Postma</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-08-17T23:00:00+00:00</dc:date>
+        <dc:publisher>KR Publishing</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

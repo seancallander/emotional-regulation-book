@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44b8693e-730b-4de4-8873-f11da5c93692</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">44b8693e-730b-4de4-8873-f11da5c93692</dc:identifier>
+        <dc:title>Managing Social Anxiety, Workbook (Treatments That Work)</dc:title>
+        <dc:creator opf:file-as="Hope, Debra A. &amp; Heimberg, Richard G. &amp; Turk, Cynthia L." opf:role="aut">Debra A. Hope</dc:creator>
+        <dc:creator opf:file-as="Hope, Debra A. &amp; Heimberg, Richard G. &amp; Turk, Cynthia L." opf:role="aut">Richard G. Heimberg</dc:creator>
+        <dc:creator opf:file-as="Hope, Debra A. &amp; Heimberg, Richard G. &amp; Turk, Cynthia L." opf:role="aut">Cynthia L. Turk</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2019-10-22T23:00:00+00:00</dc:date>
+        <dc:publisher>Oxford University Press</dc:publisher>
+        <dc:rights>&amp;#169; Oxford University Press 2019</dc:rights>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
