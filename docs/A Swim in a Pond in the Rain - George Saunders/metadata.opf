@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">81fd7e88-0821-4559-bb06-73726405701a</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">81fd7e88-0821-4559-bb06-73726405701a</dc:identifier>
+        <dc:title>A Swim in a Pond in the Rain</dc:title>
+        <dc:creator opf:file-as="Saunders, George" opf:role="aut">George Saunders</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-01-11T23:00:00+00:00</dc:date>
+        <dc:publisher>Bloomsbury Publishing</dc:publisher>
+        <dc:rights>&amp;#x00A9; George Saunders, 2021</dc:rights>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

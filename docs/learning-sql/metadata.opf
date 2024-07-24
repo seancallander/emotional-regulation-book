@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64147966-a27f-4251-aa7a-d459f1b28a69</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">64147966-a27f-4251-aa7a-d459f1b28a69</dc:identifier>
+        <dc:title>Learning SQL, 2nd edition</dc:title>
+        <dc:creator opf:file-as="Beaulieu, Alan" opf:role="aut">Alan Beaulieu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-10-18T22:45:00+00:00</dc:date>
+        <dc:description>O'Reilly Media, Inc.</dc:description>
+        <dc:language>en</dc:language>
+        <dc:subject>ISBN-13:</dc:subject>
+        <dc:subject>9780596520830</dc:subject>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
