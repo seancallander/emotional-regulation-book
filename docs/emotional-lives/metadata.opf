@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">f2b8f635-217e-42c8-bb5b-927d3cc1b2b3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f2b8f635-217e-42c8-bb5b-927d3cc1b2b3</dc:identifier>
+        <dc:title>The Emotional Lives of Teenagers: Raising Connected, Capable and Compassionate Adolescents</dc:title>
+        <dc:creator opf:file-as="Damour, Lisa" opf:role="aut">Lisa Damour</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-02-22T23:00:00+00:00</dc:date>
+        <dc:publisher>Allen &amp; Unwin</dc:publisher>
+        <dc:rights>All rights reserved</dc:rights>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

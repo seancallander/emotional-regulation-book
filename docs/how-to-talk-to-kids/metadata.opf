@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">0392fdb4-e25a-429a-aed3-2556fd00a29f</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0392fdb4-e25a-429a-aed3-2556fd00a29f</dc:identifier>
+        <dc:title>How To Talk So Little Kids Will Listen: A Survival Guide to Life with Children Ages 2-7</dc:title>
+        <dc:creator opf:file-as="Faber, Joanna &amp; King, Julie" opf:role="aut">Joanna Faber</dc:creator>
+        <dc:creator opf:file-as="Faber, Joanna &amp; King, Julie" opf:role="aut">Julie King</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-01-25T23:00:00+00:00</dc:date>
+        <dc:publisher>Bonnier Publishing Fiction</dc:publisher>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

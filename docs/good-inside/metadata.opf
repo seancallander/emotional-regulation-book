@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15ff6872-8cc4-4f1b-9c95-d8f846460ab4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">15ff6872-8cc4-4f1b-9c95-d8f846460ab4</dc:identifier>
+        <dc:title>Good Inside: The new Sunday Times bestselling gentle parenting guide for fans of Philippa Perry</dc:title>
+        <dc:creator opf:file-as="Kennedy, Becky" opf:role="aut">Becky Kennedy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2022-09-14T23:00:00+00:00</dc:date>
+        <dc:publisher>HarperCollins Publishers</dc:publisher>
+        <dc:rights>Copyright © Dr Becky Kennedy 2022</dc:rights>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

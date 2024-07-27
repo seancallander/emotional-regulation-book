@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">699d5a17-ee9a-4fe9-915f-a98883afd6be</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">699d5a17-ee9a-4fe9-915f-a98883afd6be</dc:identifier>
+        <dc:title>Adult Children of Emotionally Immature Parents</dc:title>
+        <dc:creator opf:file-as="Gibson, Lindsay C." opf:role="aut">Lindsay C. Gibson</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-31T23:00:00+00:00</dc:date>
+        <dc:description>What happens when children are more mature than their parents? Growing up with an emotionally unavailable, immature, or selfish parent is painful, but rarely discussed. In this breakthrough book, clinical psychologist Lindsay C. Gibson exposes an often overlooked, yet extremely common syndrome that shapes the lives of so many people. Gibson also provides powerful skills to help the adult children of self-centered parents gain the insight they need to move on from feelings of loneliness and abandonment, and find healthy ways to meet their own emotional needs.</dc:description>
+        <dc:publisher>New Harbinger Publications</dc:publisher>
+        <dc:rights>Copyright © 2015 by Lindsay C. Gibson  New Harbinger Publications, Inc.  5674 Shattuck Avenue  Oakland, CA 94609  www.newharbinger.com</dc:rights>
+        <dc:language>en</dc:language>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
