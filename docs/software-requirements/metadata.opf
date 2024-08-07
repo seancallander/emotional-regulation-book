@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8658605e-6e08-4fbd-aab3-25e315d7db3f</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8658605e-6e08-4fbd-aab3-25e315d7db3f</dc:identifier>
+        <dc:title>Software Requirements (Developer Best Practices)</dc:title>
+        <dc:creator opf:file-as="Wiegers , Karl" opf:role="aut">Karl Wiegers</dc:creator>
+        <dc:creator opf:file-as="Wiegers , Karl" opf:role="aut">Beatty Joy</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-14T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;The third edition of this classic guide has been fully updated with contemporary, comprehensive guidance for managing the software requirements engineering process from end to end.&lt;/p&gt;</dc:description>
+        <dc:publisher>Pearson Education</dc:publisher>
+        <dc:rights>Copyright © 2013 Karl Wiegers and Seilevel</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:subject>COMPUTERS / Software Development &amp; Engineering / General</dc:subject>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
